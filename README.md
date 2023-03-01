@@ -1,6 +1,6 @@
 # Fenstersensor
 
-![Alt text](Breadboard.jpeg)
+![Alt text](documentation/Breadboard.jpeg)
 
 ## Inhaltsverzeichnis
 
@@ -70,10 +70,10 @@ Als ersten Schritt empfehlen wir das Stecken der Verbindungen auf einem Breadboa
 Testen der Verkabelung vor dem Löten.
 Die Verkabelung können Sie dem unten stehenden Schaubild entnehmen.
 
-![Schaltplan](Schaltplan.jpg)
+![Schaltplan](documentation/Schaltplan.jpg)
 
 Gesteckt auf dem Breadboard:
-![Breadboard](Breadboard.jpeg)
+![Breadboard](documentation/Breadboard.jpeg)
 
 ## Einrichten des Mikrocontrollers
 
